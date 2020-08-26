@@ -1,7 +1,7 @@
-This is.....
-This is line one 1
-This copy 1 from branch 1
-This is copy_2 branch 2
+This is..... new
+This is line one 1 new
+This copy 1 from branch 1 new
+This is copy_2 branch 2 new
 FIXED:
-Nothing 4444444
-Nothing 55555555555555
+Nothing 4444444 new
+Nothing 55555555555555 new
