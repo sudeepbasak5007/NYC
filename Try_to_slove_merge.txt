@@ -16,4 +16,11 @@ This is copy_2 branch 2
 FIXED:
 Nothing 4444444 old
 Nothing 55555555555555 old
-
+This is line one 
+This copy 1 from branch 
+This is copy_2 branch 
+FIXED:
+Nothing
+Nothing 
+nothing
+neww
