@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is line one
 This is line two
 This is line three
@@ -5,3 +6,6 @@ This is line four
 This copy 1 from branch 1
 This is copy_2 branch 2
 
+=======
+Nothing
+>>>>>>> 43c980feb195ce8ddbb6139b8f168958370eaf6f
