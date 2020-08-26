@@ -5,3 +5,15 @@ This is copy_2 branch 2 new
 FIXED:
 Nothing 4444444 new
 Nothing 55555555555555 new
+This is.....
+This FUCK
+This copy 1 from big FUCK
+This is..... old
+This is line one 1 old
+This copy 1 from branch 1 old
+old
+This is copy_2 branch 2
+FIXED:
+Nothing 4444444 old
+Nothing 55555555555555 old
+
